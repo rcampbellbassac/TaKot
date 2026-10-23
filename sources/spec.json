@@ -1,0 +1,39 @@
+{
+ "name": "Ta Kot School",
+ "slug": "TaKotSchool",
+ "version": "0.010",
+ "bases": {
+  "lao": "lao-looped",
+  "thai": "thai-looped",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "wght": 100,
+ "wdth": 63.8,
+ "scale": 0.9663,
+ "recipe": [
+  {
+   "op": "wobble",
+   "amp": 3,
+   "wave": 240
+  },
+  {
+   "op": "nib",
+   "shape": "ellipse",
+   "w": 70.4,
+   "min_hole": 1200,
+   "h": 59.9,
+   "angle": 0
+  }
+ ],
+ "fit": {
+  "sign_stem_over_height": 0.1522,
+  "sign_width_over_height": 0.5815,
+  "base_height": 561,
+  "base_stem": 24,
+  "nib_w": 70.4
+ },
+ "sidebearing": 40,
+ "baseline_snap": [],
+ "copyright": "Copyright 2026 Robert Martin Campbell. Lao key letters traced from a hand-painted sign photographed in Laos (2019); other letters derived from the Noto fonts for Lao, Thai, Khmer and Latin (Copyright 2022 The Noto Project Authors)."
+}

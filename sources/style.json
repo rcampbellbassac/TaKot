@@ -1,0 +1,7 @@
+{"name": "Ta Kot School", "slug": "TaKotSchool", "ink": "a", "body": "ບ",
+ "sign_text": "ໂຮງຮຽນປະຖົມສຶກສາສົມບູນຕາກົດ ກມ 25",
+ "notes": "Roadside school sign: sculpted traditional bold with big curled heads, pinched loops and long swept tails on ໂ ງ ຽ ຖ.",
+ "labels": {"ໂ": [0], "ຮ": [4], "ງ": [6], "ຽ": [11], "ນ": [17], "ປ": [21], "ະ": [25, 26], "ຖ": [29], "ົ": [31], "ມ": [34],
+            "ຶ": [2, 3], "ສ": [1], "ກ": [5], "າ": [10], "ບ": [19], "ູ": [20], "ຕ": [27], "ດ": [35], "2": [22], "5": [28]},
+ "nib": {"shape": "ellipse", "aspect": 0.85, "angle": 0},
+ "effects": [{"op": "wobble", "amp": 3, "wave": 240}]}
